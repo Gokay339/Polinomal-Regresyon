@@ -96,3 +96,6 @@ plt.ylabel('Sıcaklık')
 plt.legend()
 plt.show()
 
+
+Doğruluk Oranı Ve Grafik : https://prnt.sc/-FIGSOWfGwph
+
